@@ -1,4 +1,4 @@
-# Suplementary Material for "Taxonomical hierarchy of canonicalized relations from multiple Knowledge Bases"
+# Taxonomical hierarchy of canonicalized relations from multiple Knowledge Bases
 Paper: [Taxonomical hierarchy of canonicalized relations from multiple Knowledge Bases](https://arxiv.org/abs/1909.06249) <br>
 Website: [Relation Hierarchy](https://relationhierarchy.github.io/)
 <br><br>
