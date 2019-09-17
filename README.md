@@ -10,7 +10,7 @@ This work addresses two important questions pertinent to Relation Extraction (RE
   * __Dbpedia, Wikipedia, and Wikidata__: individual hierarchies for _person_, _location_, and _organization_ along with the complete hierarchy.
   * __Dbpedia Wikidata__: A joint hierarchy for the relations collected from both Dbpedia and Wikidata. Hierarchy can be visualised either radially or in spiral radial tree.
   * __Dbpedia Wikidata Infobox__: A joint hierarchy for the relations collected from both Dbpedia, Wikidata and Wikipedia Infobox templates. Hierarchy can be visualised either radially or in spiral radial tree.
-* **relation.csv**: This csv file contains final list of 623 relations. Every line is of the form, [_source-entity-type_._target-entiy-type_.[_...ancestor-relations..._].relation
+* **relation.csv**: This csv file contains final list of 623 relations. Every line is of the form, [_source-entity-type_._target-entiy-type_.[_...ancestor-relations..._].relation]
 ```
 per.per.student
 ```
