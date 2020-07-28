@@ -1,6 +1,6 @@
 # Taxonomical hierarchy of canonicalized relations from multiple Knowledge Bases
 Paper: [Taxonomical hierarchy of canonicalized relations from multiple Knowledge Bases](https://arxiv.org/abs/1909.06249) <br>
-Website: [Relation Hierarchy](https://relationhierarchy.github.io/)
+Website: [Relation Hierarchy](https://www.iitg.ac.in/cseweb/fgrel/)
 <br><br>
 ## Abstract
 This work addresses two important questions pertinent to Relation Extraction (RE). First, what are all possible relations that could exist between any two given entity types? Second, how do we define an unambiguous taxonomical (_is-a_) hierarchy among the identified relations? To address the first question, we use three resources Wikipedia Infobox, Wikidata, and DBpedia. This study focuses on relations between _person_, _organization and _location_ entity types. We exploit Wikidata and DBpedia in a data-driven manner, and Wikipedia Infobox templates manually to generate lists of relations. Further, to address the second question, we canonicalize, filter, and combine the identified relations from the three resources to construct a taxonomical hierarchy. This hierarchy contains 623 canonical relations with highest contribution from Wikipedia Infobox followed by DBpedia and Wikidata. The generated relation list subsumes an average of 85% of relations from RE datasets when entity types are restricted.
